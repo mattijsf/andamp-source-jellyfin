@@ -1,0 +1,123 @@
+{
+  "Items": [
+    {
+      "Name": "Thraximundar (He Who Paints The Earth Red)",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "84f8c616561f3d3d5c82ae6796be204b",
+      "HasLyrics": true,
+      "Container": "flac",
+      "PremiereDate": "2013-01-01T00:00:00.0000000Z",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "84f8c616561f3d3d5c82ae6796be204b",
+          "Path": "/media/Music/Joshua Boniface/Into Aether/Thraximundar.flac",
+          "Type": "Default",
+          "Container": "flac",
+          "Size": 38098202,
+          "Name": "Thraximundar",
+          "IsRemote": false,
+          "ETag": "6f3eeab8820172398dbf31af9477f1a0",
+          "RunTimeTicks": 3254508839,
+          "ReadAtNativeFramerate": false,
+          "IgnoreDts": false,
+          "IgnoreIndex": false,
+          "GenPtsInput": false,
+          "SupportsTranscoding": true,
+          "SupportsDirectStream": true,
+          "SupportsDirectPlay": true,
+          "IsInfiniteStream": false,
+          "UseMostCompatibleTranscodingProfile": false,
+          "RequiresOpening": false,
+          "RequiresClosing": false,
+          "RequiresLooping": false,
+          "SupportsProbing": true,
+          "MediaStreams": [
+            {
+              "Codec": "flac",
+              "TimeBase": "1/44100",
+              "VideoRange": "Unknown",
+              "VideoRangeType": "Unknown",
+              "AudioSpatialFormat": "None",
+              "LocalizedDefault": "Default",
+              "LocalizedExternal": "External",
+              "LocalizedOriginal": "Original",
+              "DisplayTitle": "FLAC - Stereo",
+              "IsInterlaced": false,
+              "IsAVC": false,
+              "ChannelLayout": "stereo",
+              "BitRate": 936502,
+              "BitDepth": 16,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "IsDefault": false,
+              "IsForced": false,
+              "IsHearingImpaired": false,
+              "IsOriginal": false,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false,
+              "IsTextSubtitleStream": false,
+              "SupportsExternalStream": false,
+              "Level": 0
+            },
+            {
+              "VideoRange": "Unknown",
+              "VideoRangeType": "Unknown",
+              "AudioSpatialFormat": "None",
+              "IsInterlaced": false,
+              "IsDefault": false,
+              "IsForced": false,
+              "IsHearingImpaired": false,
+              "IsOriginal": false,
+              "Type": "Lyric",
+              "Index": 1,
+              "IsExternal": false,
+              "IsTextSubtitleStream": false,
+              "SupportsExternalStream": false,
+              "Path": "/media/Music/Joshua Boniface/Into Aether/Thraximundar.lrc"
+            }
+          ],
+          "MediaAttachments": [],
+          "Formats": [],
+          "Bitrate": 936502,
+          "RequiredHttpHeaders": {},
+          "TranscodingSubProtocol": "http",
+          "DefaultAudioStreamIndex": 0,
+          "HasSegments": false
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 3254508839,
+      "ProductionYear": 2013,
+      "IndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Joshua Boniface"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Joshua Boniface",
+          "Id": "6330eeddf969d120c0c4c054770f0ee0"
+        }
+      ],
+      "Album": "Thraximundar",
+      "AlbumId": "9f4119bdf8257b3f75141745432d0171",
+      "AlbumArtist": "Joshua Boniface",
+      "AlbumArtists": [
+        {
+          "Name": "Joshua Boniface",
+          "Id": "6330eeddf969d120c0c4c054770f0ee0"
+        }
+      ],
+      "ImageTags": {},
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Audio",
+      "NormalizationGain": -13.2
+    }
+  ],
+  "TotalRecordCount": 1,
+  "StartIndex": 0
+}

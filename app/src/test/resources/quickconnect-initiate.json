@@ -1,0 +1,10 @@
+{
+  "Authenticated": false,
+  "Secret": "SECRET-PLACEHOLDER",
+  "Code": "153921",
+  "DeviceId": "andamp-probe-0001",
+  "DeviceName": "Probe",
+  "AppName": "AndAmp",
+  "AppVersion": "0.1.0",
+  "DateAdded": "2026-09-13T17:31:45.6951458Z"
+}

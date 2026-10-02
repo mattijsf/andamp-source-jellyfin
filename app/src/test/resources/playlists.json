@@ -1,0 +1,81 @@
+{
+  "Items": [
+    {
+      "Name": "Binaerpilot",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "d970eee82134b487f1df37d753fab1f9",
+      "ChannelId": null,
+      "RunTimeTicks": 5808848970,
+      "IsFolder": true,
+      "Type": "Playlist",
+      "ChildCount": 3,
+      "ImageTags": {
+        "Primary": "791bb36966b5c10ddab20a73c25963fd"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "791bb36966b5c10ddab20a73c25963fd": "e;IX{payfQWBWB00j[fQofj[ayfPfQfjay%MayfQayj[j[j[fQj[fP"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    },
+    {
+      "Name": "Horror",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "5309f2cdaa2c66dd4a70c09518bca8b4",
+      "OfficialRating": "NR",
+      "ChannelId": null,
+      "RunTimeTicks": 101835112880,
+      "IsFolder": true,
+      "Type": "Playlist",
+      "ChildCount": 2,
+      "ImageTags": {
+        "Primary": "2af6624bb00b7c56e98a2ccc6f132b7f"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "2af6624bb00b7c56e98a2ccc6f132b7f": "ejGIomxtfQ%L%L?aj[fQoft6fQfQfQfQfQ~poffQt7xt?tRkfQM|M|"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    },
+    {
+      "Name": "kids",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "cca67289259604f42593db935ae5dd88",
+      "ChannelId": null,
+      "RunTimeTicks": 3290925209,
+      "IsFolder": true,
+      "Type": "Playlist",
+      "ChildCount": 2,
+      "ImageTags": {
+        "Primary": "5966bb0ecc73c7a14953af9cf606729f"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "5966bb0ecc73c7a14953af9cf606729f": "eeNTXYozfQkpWVlAfkfQfkjufQfQfQfQfQhLf+fQf+jutRjFfQnikC"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    },
+    {
+      "Name": "Test",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "744174a4c5288a4fdd45b88ab75e221d",
+      "ChannelId": null,
+      "RunTimeTicks": 0,
+      "IsFolder": true,
+      "Type": "Playlist",
+      "ChildCount": 0,
+      "ImageTags": {},
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    }
+  ],
+  "TotalRecordCount": 4,
+  "StartIndex": 0
+}

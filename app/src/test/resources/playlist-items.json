@@ -1,0 +1,324 @@
+{
+  "Items": [
+    {
+      "Name": "Thunderdays",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "933e3a903b3ea327b4acfbeb46445b92",
+      "PlaylistItemId": "933e3a903b3ea327b4acfbeb46445b92",
+      "HasLyrics": false,
+      "Container": "mp3",
+      "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "933e3a903b3ea327b4acfbeb46445b92",
+          "Path": "/media/Music/Binaerpilot/Promo/01_binaerpilot_-_thunderdays.mp3",
+          "Type": "Default",
+          "Container": "mp3",
+          "Size": 3405951,
+          "Name": "01_binaerpilot_-_thunderdays",
+          "IsRemote": false,
+          "ETag": "b9e06a34cc5e5aaf53c988cac1325330",
+          "RunTimeTicks": 1416881630,
+          "ReadAtNativeFramerate": false,
+          "IgnoreDts": false,
+          "IgnoreIndex": false,
+          "GenPtsInput": false,
+          "SupportsTranscoding": true,
+          "SupportsDirectStream": true,
+          "SupportsDirectPlay": true,
+          "IsInfiniteStream": false,
+          "UseMostCompatibleTranscodingProfile": false,
+          "RequiresOpening": false,
+          "RequiresClosing": false,
+          "RequiresLooping": false,
+          "SupportsProbing": true,
+          "MediaStreams": [
+            {
+              "Codec": "mp3",
+              "TimeBase": "1/14112000",
+              "VideoRange": "Unknown",
+              "VideoRangeType": "Unknown",
+              "AudioSpatialFormat": "None",
+              "LocalizedDefault": "Default",
+              "LocalizedExternal": "External",
+              "LocalizedOriginal": "Original",
+              "DisplayTitle": "MP3 - Stereo",
+              "IsInterlaced": false,
+              "IsAVC": false,
+              "ChannelLayout": "stereo",
+              "BitRate": 192000,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "IsDefault": false,
+              "IsForced": false,
+              "IsHearingImpaired": false,
+              "IsOriginal": false,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false,
+              "IsTextSubtitleStream": false,
+              "SupportsExternalStream": false,
+              "Level": 0
+            }
+          ],
+          "MediaAttachments": [],
+          "Formats": [],
+          "Bitrate": 192306,
+          "RequiredHttpHeaders": {},
+          "TranscodingSubProtocol": "http",
+          "DefaultAudioStreamIndex": 0,
+          "HasSegments": false
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 1416881630,
+      "IndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Binaerpilot"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Binaerpilot",
+          "Id": "9ebcc113abb3ee375dbf1d68c9576ed5"
+        }
+      ],
+      "Album": "Promo",
+      "AlbumId": "920673748d7c8a4aa03144614f1f947f",
+      "AlbumPrimaryImageTag": "dcdaa02d4c5425aa20d7dbd3dc0df5fc",
+      "AlbumArtist": "Binaerpilot",
+      "AlbumArtists": [
+        {
+          "Name": "Binaerpilot",
+          "Id": "9ebcc113abb3ee375dbf1d68c9576ed5"
+        }
+      ],
+      "ImageTags": {},
+      "ImageBlurHashes": {
+        "Primary": {
+          "dcdaa02d4c5425aa20d7dbd3dc0df5fc": "e22i99t7D%Rjof?bt7IUWBj[fQfQfQfQfQ9FRj%Mofay00Rj-;t7WB"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Audio",
+      "NormalizationGain": -8.7,
+      "AlbumNormalizationGain": -8.1
+    },
+    {
+      "Name": "Cornered! (Promo Edit)",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "3f5cc1daea4e59e9204d939ba3e5345e",
+      "PlaylistItemId": "3f5cc1daea4e59e9204d939ba3e5345e",
+      "HasLyrics": false,
+      "Container": "mp3",
+      "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "3f5cc1daea4e59e9204d939ba3e5345e",
+          "Path": "/media/Music/Binaerpilot/Promo/04_binaerpilot_-_cornered_promo.mp3",
+          "Type": "Default",
+          "Container": "mp3",
+          "Size": 4125791,
+          "Name": "04_binaerpilot_-_cornered_promo",
+          "IsRemote": false,
+          "ETag": "5a127c0553f3f275e9b57d83a3a3f332",
+          "RunTimeTicks": 1716506120,
+          "ReadAtNativeFramerate": false,
+          "IgnoreDts": false,
+          "IgnoreIndex": false,
+          "GenPtsInput": false,
+          "SupportsTranscoding": true,
+          "SupportsDirectStream": true,
+          "SupportsDirectPlay": true,
+          "IsInfiniteStream": false,
+          "UseMostCompatibleTranscodingProfile": false,
+          "RequiresOpening": false,
+          "RequiresClosing": false,
+          "RequiresLooping": false,
+          "SupportsProbing": true,
+          "MediaStreams": [
+            {
+              "Codec": "mp3",
+              "TimeBase": "1/14112000",
+              "VideoRange": "Unknown",
+              "VideoRangeType": "Unknown",
+              "AudioSpatialFormat": "None",
+              "LocalizedDefault": "Default",
+              "LocalizedExternal": "External",
+              "LocalizedOriginal": "Original",
+              "DisplayTitle": "MP3 - Stereo",
+              "IsInterlaced": false,
+              "IsAVC": false,
+              "ChannelLayout": "stereo",
+              "BitRate": 192000,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "IsDefault": false,
+              "IsForced": false,
+              "IsHearingImpaired": false,
+              "IsOriginal": false,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false,
+              "IsTextSubtitleStream": false,
+              "SupportsExternalStream": false,
+              "Level": 0
+            }
+          ],
+          "MediaAttachments": [],
+          "Formats": [],
+          "Bitrate": 192287,
+          "RequiredHttpHeaders": {},
+          "TranscodingSubProtocol": "http",
+          "DefaultAudioStreamIndex": 0,
+          "HasSegments": false
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 1716506120,
+      "IndexNumber": 4,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Binaerpilot"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Binaerpilot",
+          "Id": "9ebcc113abb3ee375dbf1d68c9576ed5"
+        }
+      ],
+      "Album": "Promo",
+      "AlbumId": "920673748d7c8a4aa03144614f1f947f",
+      "AlbumPrimaryImageTag": "dcdaa02d4c5425aa20d7dbd3dc0df5fc",
+      "AlbumArtist": "Binaerpilot",
+      "AlbumArtists": [
+        {
+          "Name": "Binaerpilot",
+          "Id": "9ebcc113abb3ee375dbf1d68c9576ed5"
+        }
+      ],
+      "ImageTags": {},
+      "ImageBlurHashes": {
+        "Primary": {
+          "dcdaa02d4c5425aa20d7dbd3dc0df5fc": "e22i99t7D%Rjof?bt7IUWBj[fQfQfQfQfQ9FRj%Mofay00Rj-;t7WB"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Audio",
+      "NormalizationGain": -7.5,
+      "AlbumNormalizationGain": -8.1
+    },
+    {
+      "Name": "Bend",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "a794b7c125d436df8dc2d870ad7b7e1e",
+      "PlaylistItemId": "a794b7c125d436df8dc2d870ad7b7e1e",
+      "HasLyrics": false,
+      "Container": "mp3",
+      "PremiereDate": "2006-01-01T00:00:00.0000000Z",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "a794b7c125d436df8dc2d870ad7b7e1e",
+          "Path": "/media/Music/Binaerpilot/You Can't Stop Da Funk/01_binaerpilot_-_bend.mp3",
+          "Type": "Default",
+          "Container": "mp3",
+          "Size": 6429605,
+          "Name": "01_binaerpilot_-_bend",
+          "IsRemote": false,
+          "ETag": "f3889215712be5902d764c6c07c62f24",
+          "RunTimeTicks": 2675461220,
+          "ReadAtNativeFramerate": false,
+          "IgnoreDts": false,
+          "IgnoreIndex": false,
+          "GenPtsInput": false,
+          "SupportsTranscoding": true,
+          "SupportsDirectStream": true,
+          "SupportsDirectPlay": true,
+          "IsInfiniteStream": false,
+          "UseMostCompatibleTranscodingProfile": false,
+          "RequiresOpening": false,
+          "RequiresClosing": false,
+          "RequiresLooping": false,
+          "SupportsProbing": true,
+          "MediaStreams": [
+            {
+              "Codec": "mp3",
+              "TimeBase": "1/14112000",
+              "VideoRange": "Unknown",
+              "VideoRangeType": "Unknown",
+              "AudioSpatialFormat": "None",
+              "LocalizedDefault": "Default",
+              "LocalizedExternal": "External",
+              "LocalizedOriginal": "Original",
+              "DisplayTitle": "MP3 - Stereo",
+              "IsInterlaced": false,
+              "IsAVC": false,
+              "ChannelLayout": "stereo",
+              "BitRate": 192000,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "IsDefault": false,
+              "IsForced": false,
+              "IsHearingImpaired": false,
+              "IsOriginal": false,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false,
+              "IsTextSubtitleStream": false,
+              "SupportsExternalStream": false,
+              "Level": 0
+            }
+          ],
+          "MediaAttachments": [],
+          "Formats": [],
+          "Bitrate": 192254,
+          "RequiredHttpHeaders": {},
+          "TranscodingSubProtocol": "http",
+          "DefaultAudioStreamIndex": 0,
+          "HasSegments": false
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 2675461220,
+      "ProductionYear": 2006,
+      "IndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Binaerpilot"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Binaerpilot",
+          "Id": "9ebcc113abb3ee375dbf1d68c9576ed5"
+        }
+      ],
+      "Album": "You Can't Stop Da Funk",
+      "AlbumId": "f21ea9ece4e6e26ec26ebfb81b82ad78",
+      "AlbumPrimaryImageTag": "95b159065964e1210d8c39d255920ebc",
+      "AlbumArtist": "Binaerpilot",
+      "AlbumArtists": [
+        {
+          "Name": "Binaerpilot",
+          "Id": "9ebcc113abb3ee375dbf1d68c9576ed5"
+        }
+      ],
+      "ImageTags": {},
+      "ImageBlurHashes": {
+        "Primary": {
+          "95b159065964e1210d8c39d255920ebc": "eLP6,NofIU_2xu?IV]n,xbxbt7t7fPRjRi~qx[kAR%M{%M%3s;WCRj"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Audio",
+      "NormalizationGain": -6.6000004
+    }
+  ],
+  "TotalRecordCount": 3,
+  "StartIndex": 0
+}

@@ -1,0 +1,7 @@
+# Strings a secret scan skips, each with the reason.
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "the placeholder token in the recorded sign-in replies and their tests"
+regexes = ['''0123456789abcdef0123456789abcdef''']

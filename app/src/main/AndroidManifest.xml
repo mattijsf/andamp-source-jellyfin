@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The Jellyfin source: a music source for a Jellyfin server the listener runs,
+  using Jellyfin's own API.
+
+  The service answers the bind action, which is how the player finds this
+  source. The settings activity answers the settings action, which the player's
+  Preferences opens. Both are exported because the caller is another package.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+      The only permission declared here; the SDK adds ACCESS_NETWORK_STATE.
+      The source plays no audio itself: what it decodes goes to the player
+      through a pipe. It has no foreground service and no wake lock.
+    -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--
+      A self-hosted server is often on the listener's own network over plain
+      http, so cleartext traffic is allowed.
+    -->
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/Theme.AndAmpPack">
+
+        <!--
+          The service the player binds. The player binds it with
+          BIND_INCLUDE_CAPABILITIES, which keeps this process alive while
+          music plays.
+        -->
+        <service
+            android:name="nl.mattix.andamp.pack.jellyfin.pack.PackService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="nl.mattix.andamp.source.BIND" />
+            </intent-filter>
+        </service>
+
+        <!--
+          The settings screen. It stays enabled so Andamp's Preferences can
+          always open it; the icon in the app list is the alias below.
+        -->
+        <activity
+            android:name="nl.mattix.andamp.pack.jellyfin.ui.JellyfinSettingsActivity"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="nl.mattix.andamp.source.SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!--
+          The icon in the app list. The alias is declared disabled and is
+          enabled at runtime by PackLauncherEntry in source-common, so that the
+          listener can remove the icon: from Android 10 a launcher shows an
+          "App info" icon for a launcher activity that the manifest declares
+          enabled and that was disabled at runtime.
+        -->
+        <activity-alias
+            android:name="nl.mattix.andamp.pack.jellyfin.ui.LauncherEntry"
+            android:enabled="false"
+            android:exported="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher"
+            android:targetActivity="nl.mattix.andamp.pack.jellyfin.ui.JellyfinSettingsActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+    </application>
+
+</manifest>

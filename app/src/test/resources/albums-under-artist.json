@@ -1,0 +1,55 @@
+{
+  "Items": [
+    {
+      "Name": "Promo",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "920673748d7c8a4aa03144614f1f947f",
+      "ChannelId": null,
+      "RunTimeTicks": 3000000000,
+      "IsFolder": true,
+      "Type": "MusicAlbum",
+      "ChildCount": 2,
+      "Artists": [],
+      "ArtistItems": [],
+      "AlbumArtists": [],
+      "ImageTags": {
+        "Primary": "dcdaa02d4c5425aa20d7dbd3dc0df5fc"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "dcdaa02d4c5425aa20d7dbd3dc0df5fc": "e22i99t7D%Rjof?bt7IUWBj[fQfQfQfQfQ9FRj%Mofay00Rj-;t7WB"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown",
+      "NormalizationGain": -8.1
+    },
+    {
+      "Name": "You Can't Stop Da Funk",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "f21ea9ece4e6e26ec26ebfb81b82ad78",
+      "PremiereDate": "2006-01-01T00:00:00.0000000Z",
+      "ChannelId": null,
+      "RunTimeTicks": 2400000000,
+      "ProductionYear": 2006,
+      "IsFolder": true,
+      "Type": "MusicAlbum",
+      "ChildCount": 1,
+      "Artists": [],
+      "ArtistItems": [],
+      "AlbumArtists": [],
+      "ImageTags": {
+        "Primary": "95b159065964e1210d8c39d255920ebc"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "95b159065964e1210d8c39d255920ebc": "eLP6,NofIU_2xu?IV]n,xbxbt7t7fPRjRi~qx[kAR%M{%M%3s;WCRj"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    }
+  ],
+  "TotalRecordCount": 2,
+  "StartIndex": 0
+}

@@ -1,0 +1,38 @@
+{
+  "Items": [
+    {
+      "Name": "Joshua Boniface",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "6330eeddf969d120c0c4c054770f0ee0",
+      "ChannelId": null,
+      "RunTimeTicks": 3254508839,
+      "IsFolder": true,
+      "Type": "MusicArtist",
+      "ImageTags": {},
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    },
+    {
+      "Name": "Leap Fidei",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "78e6763b3d9b58c349a58ce5eb7877c1",
+      "ChannelId": null,
+      "RunTimeTicks": 1830508539,
+      "IsFolder": true,
+      "Type": "MusicArtist",
+      "ImageTags": {
+        "Primary": "9d23a06a81f0004b69b76dfa96c51a58"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "9d23a06a81f0004b69b76dfa96c51a58": "enODm]a#D%xtRj01IVRkRkof4oWCofWBt7j]xtt6j?ofRkxtfPWBof"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    }
+  ],
+  "TotalRecordCount": 3,
+  "StartIndex": 0
+}

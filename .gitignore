@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.DS_Store
+.idea/
+*.iml
+captures/
+
+# the key this source is signed with, and its passwords
+keystore.properties
+*.jks
+*.keystore

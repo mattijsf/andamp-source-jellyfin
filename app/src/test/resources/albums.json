@@ -1,0 +1,125 @@
+{
+  "Items": [
+    {
+      "Name": "Nemesis",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "f7e6d83954e06a0d46724a6068fa21ff",
+      "PremiereDate": "2024-01-01T00:00:00.0000000Z",
+      "ChannelId": null,
+      "RunTimeTicks": 1830508539,
+      "ProductionYear": 2024,
+      "IsFolder": true,
+      "Type": "MusicAlbum",
+      "ChildCount": 1,
+      "Artists": [
+        "Leap Fidei"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Leap Fidei",
+          "Id": "78e6763b3d9b58c349a58ce5eb7877c1"
+        }
+      ],
+      "AlbumArtist": "Leap Fidei",
+      "AlbumArtists": [
+        {
+          "Name": "Leap Fidei",
+          "Id": "78e6763b3d9b58c349a58ce5eb7877c1"
+        }
+      ],
+      "ImageTags": {
+        "Primary": "45ff5f4520bf2b3e9e7410e4c8766cb1"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "45ff5f4520bf2b3e9e7410e4c8766cb1": "eMB;XYyC4VNGRkyrtlV?RjjZ0hXT-URPxZ%MtQM{M|bb_1t7IVV@S5"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    },
+    {
+      "Name": "Promo",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "920673748d7c8a4aa03144614f1f947f",
+      "ChannelId": null,
+      "RunTimeTicks": 3000000000,
+      "IsFolder": true,
+      "Type": "MusicAlbum",
+      "ChildCount": 2,
+      "Artists": [],
+      "ArtistItems": [],
+      "AlbumArtists": [],
+      "ImageTags": {
+        "Primary": "dcdaa02d4c5425aa20d7dbd3dc0df5fc"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "dcdaa02d4c5425aa20d7dbd3dc0df5fc": "e22i99t7D%Rjof?bt7IUWBj[fQfQfQfQfQ9FRj%Mofay00Rj-;t7WB"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown",
+      "NormalizationGain": -8.1
+    },
+    {
+      "Name": "Thraximundar",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "9f4119bdf8257b3f75141745432d0171",
+      "PremiereDate": "2013-01-01T00:00:00.0000000Z",
+      "ChannelId": null,
+      "RunTimeTicks": 3254508839,
+      "ProductionYear": 2013,
+      "IsFolder": true,
+      "Type": "MusicAlbum",
+      "ChildCount": 1,
+      "Artists": [
+        "Joshua Boniface"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Joshua Boniface",
+          "Id": "6330eeddf969d120c0c4c054770f0ee0"
+        }
+      ],
+      "AlbumArtist": "Joshua Boniface",
+      "AlbumArtists": [
+        {
+          "Name": "Joshua Boniface",
+          "Id": "6330eeddf969d120c0c4c054770f0ee0"
+        }
+      ],
+      "ImageTags": {},
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    },
+    {
+      "Name": "You Can't Stop Da Funk",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "f21ea9ece4e6e26ec26ebfb81b82ad78",
+      "PremiereDate": "2006-01-01T00:00:00.0000000Z",
+      "ChannelId": null,
+      "RunTimeTicks": 2400000000,
+      "ProductionYear": 2006,
+      "IsFolder": true,
+      "Type": "MusicAlbum",
+      "ChildCount": 1,
+      "Artists": [],
+      "ArtistItems": [],
+      "AlbumArtists": [],
+      "ImageTags": {
+        "Primary": "95b159065964e1210d8c39d255920ebc"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "95b159065964e1210d8c39d255920ebc": "eLP6,NofIU_2xu?IV]n,xbxbt7t7fPRjRi~qx[kAR%M{%M%3s;WCRj"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    }
+  ],
+  "TotalRecordCount": 4,
+  "StartIndex": 0
+}

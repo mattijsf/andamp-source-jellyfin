@@ -1,0 +1,144 @@
+{
+  "Items": [
+    {
+      "Name": "Jellyfin",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "90b750a2cec4eb338c0dab3b40b8bb13",
+      "HasLyrics": false,
+      "Container": "flac",
+      "PremiereDate": "2024-01-01T00:00:00.0000000Z",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "90b750a2cec4eb338c0dab3b40b8bb13",
+          "Path": "/media/Music/Leap Fidei/Nemesis/Jellyfin.flac",
+          "Type": "Default",
+          "Container": "flac",
+          "Size": 17494001,
+          "Name": "Jellyfin",
+          "IsRemote": false,
+          "ETag": "6326bd14b0080da30796633bc4b091bc",
+          "RunTimeTicks": 1830508539,
+          "ReadAtNativeFramerate": false,
+          "IgnoreDts": false,
+          "IgnoreIndex": false,
+          "GenPtsInput": false,
+          "SupportsTranscoding": true,
+          "SupportsDirectStream": true,
+          "SupportsDirectPlay": true,
+          "IsInfiniteStream": false,
+          "UseMostCompatibleTranscodingProfile": false,
+          "RequiresOpening": false,
+          "RequiresClosing": false,
+          "RequiresLooping": false,
+          "SupportsProbing": true,
+          "MediaStreams": [
+            {
+              "Codec": "flac",
+              "TimeBase": "1/48000",
+              "VideoRange": "Unknown",
+              "VideoRangeType": "Unknown",
+              "AudioSpatialFormat": "None",
+              "LocalizedDefault": "Default",
+              "LocalizedExternal": "External",
+              "LocalizedOriginal": "Original",
+              "DisplayTitle": "FLAC - Stereo",
+              "IsInterlaced": false,
+              "IsAVC": false,
+              "ChannelLayout": "stereo",
+              "BitRate": 764552,
+              "BitDepth": 16,
+              "Channels": 2,
+              "SampleRate": 48000,
+              "IsDefault": false,
+              "IsForced": false,
+              "IsHearingImpaired": false,
+              "IsOriginal": false,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false,
+              "IsTextSubtitleStream": false,
+              "SupportsExternalStream": false,
+              "Level": 0
+            },
+            {
+              "Codec": "png",
+              "ColorSpace": "gbr",
+              "Comment": "Cover (front)",
+              "TimeBase": "1/90000",
+              "VideoRange": "Unknown",
+              "VideoRangeType": "Unknown",
+              "AudioSpatialFormat": "None",
+              "IsInterlaced": false,
+              "IsAVC": false,
+              "RefFrames": 1,
+              "IsDefault": false,
+              "IsForced": false,
+              "IsHearingImpaired": false,
+              "IsOriginal": false,
+              "Height": 1024,
+              "Width": 1024,
+              "RealFrameRate": 90000,
+              "ReferenceFrameRate": 90000,
+              "Type": "EmbeddedImage",
+              "AspectRatio": "1:1",
+              "Index": 1,
+              "IsExternal": false,
+              "IsTextSubtitleStream": false,
+              "SupportsExternalStream": false,
+              "PixelFormat": "rgba",
+              "Level": -99,
+              "IsAnamorphic": false
+            }
+          ],
+          "MediaAttachments": [],
+          "Formats": [],
+          "Bitrate": 764552,
+          "RequiredHttpHeaders": {},
+          "TranscodingSubProtocol": "http",
+          "DefaultAudioStreamIndex": 0,
+          "HasSegments": false
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 1830508539,
+      "ProductionYear": 2024,
+      "IndexNumber": 10,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Leap Fidei"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Leap Fidei",
+          "Id": "78e6763b3d9b58c349a58ce5eb7877c1"
+        }
+      ],
+      "Album": "Nemesis",
+      "AlbumId": "f7e6d83954e06a0d46724a6068fa21ff",
+      "AlbumPrimaryImageTag": "45ff5f4520bf2b3e9e7410e4c8766cb1",
+      "AlbumArtist": "Leap Fidei",
+      "AlbumArtists": [
+        {
+          "Name": "Leap Fidei",
+          "Id": "78e6763b3d9b58c349a58ce5eb7877c1"
+        }
+      ],
+      "ImageTags": {
+        "Primary": "e6ee40d5a27e25e143eebbe5b9bb489f"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "e6ee40d5a27e25e143eebbe5b9bb489f": "eMB;XYyC4VNGRkyrtlV?RjjZ0hXT-URPxZ%MtQM{M|bb_1t7IVV@S5",
+          "45ff5f4520bf2b3e9e7410e4c8766cb1": "eMB;XYyC4VNGRkyrtlV?RjjZ0hXT-URPxZ%MtQM{M|bb_1t7IVV@S5"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Audio",
+      "NormalizationGain": -4.3999996
+    }
+  ],
+  "TotalRecordCount": 1,
+  "StartIndex": 0
+}

@@ -1,0 +1,38 @@
+{
+  "Items": [
+    {
+      "Name": "Binaerpilot",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "9ebcc113abb3ee375dbf1d68c9576ed5",
+      "ChannelId": null,
+      "RunTimeTicks": 6000000000,
+      "IsFolder": true,
+      "Type": "MusicArtist",
+      "ImageTags": {
+        "Primary": "ac570184d1dceb91f6c47de54126557a"
+      },
+      "ImageBlurHashes": {
+        "Primary": {
+          "ac570184d1dceb91f6c47de54126557a": "eiGtykxa0fRjS5?Gj[IVoJf,M|WBWXoes:xYWVR+oKR*%1j[WXoLay"
+        }
+      },
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    },
+    {
+      "Name": "Joshua Boniface",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "6330eeddf969d120c0c4c054770f0ee0",
+      "ChannelId": null,
+      "RunTimeTicks": 3254508839,
+      "IsFolder": true,
+      "Type": "MusicArtist",
+      "ImageTags": {},
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    }
+  ],
+  "TotalRecordCount": 3,
+  "StartIndex": 0
+}

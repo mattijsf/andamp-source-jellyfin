@@ -1,0 +1,38 @@
+{
+  "Items": [
+    {
+      "Name": "Thraximundar",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "9f4119bdf8257b3f75141745432d0171",
+      "PremiereDate": "2013-01-01T00:00:00.0000000Z",
+      "ChannelId": null,
+      "RunTimeTicks": 3254508839,
+      "ProductionYear": 2013,
+      "IsFolder": true,
+      "Type": "MusicAlbum",
+      "ChildCount": 1,
+      "Artists": [
+        "Joshua Boniface"
+      ],
+      "ArtistItems": [
+        {
+          "Name": "Joshua Boniface",
+          "Id": "6330eeddf969d120c0c4c054770f0ee0"
+        }
+      ],
+      "AlbumArtist": "Joshua Boniface",
+      "AlbumArtists": [
+        {
+          "Name": "Joshua Boniface",
+          "Id": "6330eeddf969d120c0c4c054770f0ee0"
+        }
+      ],
+      "ImageTags": {},
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    }
+  ],
+  "TotalRecordCount": 1,
+  "StartIndex": 0
+}
