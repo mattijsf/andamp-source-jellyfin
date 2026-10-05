@@ -91,8 +91,8 @@ class PackServiceTest {
         assertEquals("jellyfin", said.scheme)
         assertEquals("Jellyfin", said.label)
         assertEquals(BuildConfig.VERSION_NAME, said.version)
-        assertEquals("https://mattix.nl/andamp/extensions/jellyfin/update.json", said.updates)
-        assertEquals("https://mattix.nl/andamp/extensions/jellyfin", said.home)
+        assertEquals("https://andamp.nl/extensions/jellyfin/update.json", said.updates)
+        assertEquals("https://andamp.nl/extensions/jellyfin", said.home)
         assertTrue("the source hands its audio over to the player", said.handsOverAudio)
     }
 
