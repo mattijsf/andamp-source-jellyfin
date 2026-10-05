@@ -10,7 +10,7 @@ visualizer.
 
 ## Get it
 
-The APK is at [mattix.nl/andamp/extensions/jellyfin](https://mattix.nl/andamp/extensions/jellyfin).
+The APK is at [andamp.nl/extensions/jellyfin](https://andamp.nl/extensions/jellyfin).
 Andamp notifies you when a newer version is available.
 
 ## Build

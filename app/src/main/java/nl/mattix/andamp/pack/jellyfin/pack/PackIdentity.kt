@@ -26,10 +26,10 @@ internal object PackIdentity {
     const val LABEL = "Jellyfin"
 
     /** Where this source's `update.json` is. */
-    const val UPDATES = "https://mattix.nl/andamp/extensions/jellyfin/update.json"
+    const val UPDATES = "https://andamp.nl/extensions/jellyfin/update.json"
 
     /** Where a listener gets this source. The player writes it into saved playlists beside this source's rows. */
-    const val HOME = "https://mattix.nl/andamp/extensions/jellyfin"
+    const val HOME = "https://andamp.nl/extensions/jellyfin"
 
     /** What the player reads when it binds. The capabilities are the backend's and the library's own, passed in. */
     fun descriptor(
