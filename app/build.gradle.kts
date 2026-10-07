@@ -15,7 +15,7 @@ android {
     defaultConfig {
         applicationId = "nl.mattix.andamp.pack.jellyfin"
         targetSdk = 36
-        versionName = "0.2.1" // x-release-please-version
+        versionName = "0.3.0" // x-release-please-version
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
