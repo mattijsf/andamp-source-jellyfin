@@ -2,6 +2,13 @@
 
 Changes for people who use this source, newest first.
 
+## [0.4.0](https://github.com/mattijsf/andamp-source-jellyfin/compare/v0.3.0...v0.4.0) (2026-10-14)
+
+
+### New
+
+* Android's App info page opens the source's settings ([#5](https://github.com/mattijsf/andamp-source-jellyfin/issues/5)) ([c75762f](https://github.com/mattijsf/andamp-source-jellyfin/commit/c75762f1ef9c25b791d11863630f6b459911353d))
+
 ## [0.3.0](https://github.com/mattijsf/andamp-source-jellyfin/compare/v0.2.1...v0.3.0) (2026-10-07)
 
 
