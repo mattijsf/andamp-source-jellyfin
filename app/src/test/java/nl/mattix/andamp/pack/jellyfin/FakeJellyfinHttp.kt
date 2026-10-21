@@ -14,6 +14,10 @@ import org.json.JSONObject
  * `0123456789abcdef0123456789abcdef` and the Quick Connect secret by
  * `SECRET-PLACEHOLDER`. `unauthorized.html` is the body the demo sent with a
  * 401, which is its reverse proxy's page.
+ *
+ * `genres.json`, `genres-uncounted.json`, `walk-1.json` and `walk-2.json` are
+ * written by hand in the shape of the recorded answers. The walk holds the
+ * demo's tracks with their files' paths; the genres are made up.
  */
 internal class FakeJellyfinHttp(
     private val answer: (Ask) -> JellyfinReply,
@@ -47,7 +51,7 @@ internal class FakeJellyfinHttp(
     )
 }
 
-/** A recorded body as a 200, read with [JellyfinReply.read]. */
+/** A body from `src/test/resources` as a 200, read with [JellyfinReply.read]. */
 internal fun recorded(name: String): JellyfinReply = JellyfinReply.read(200, fixture(name))
 
 /** A recorded body, verbatim. */

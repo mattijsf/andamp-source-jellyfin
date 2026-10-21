@@ -53,8 +53,18 @@ object Jellyfin {
     /** Every artist credited anywhere; the artist search asks this. */
     const val ARTISTS = "Artists"
 
-    /** The query endpoint for albums, tracks, playlists and the track search. */
+    /**
+     * The query endpoint for albums, tracks, playlists, a genre's tracks, the
+     * track search and the walk over every track that the folders are made from.
+     */
     const val ITEMS = "Items"
+
+    /**
+     * The genres of music, across every library the user can see. The
+     * server's API marks it deprecated in favor of `Genres`, which lists
+     * these genres only when asked with a music library as `ParentId`.
+     */
+    const val MUSIC_GENRES = "MusicGenres"
 
     /** A playlist's entries, in the playlist's order. */
     fun playlistItems(id: String): String = "Playlists/$id/Items"

@@ -47,6 +47,13 @@
             <meta-data
                 android:name="nl.mattix.andamp.source.MARK_PIXELS"
                 android:resource="@array/andamp_mark_pixels" />
+            <!-- the folders and genres Andamp lists for this source; read from here, not over the wire -->
+            <meta-data
+                android:name="nl.mattix.andamp.source.FOLDERS"
+                android:value="true" />
+            <meta-data
+                android:name="nl.mattix.andamp.source.GENRES"
+                android:value="true" />
         </service>
 
         <!--

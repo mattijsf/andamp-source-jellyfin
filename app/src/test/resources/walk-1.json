@@ -1,0 +1,156 @@
+{
+  "Items": [
+    {
+      "Name": "Thunderdays",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "933e3a903b3ea327b4acfbeb46445b92",
+      "HasLyrics": false,
+      "Container": "mp3",
+      "Path": "/media/Music/Binaerpilot/Promo/01_binaerpilot_-_thunderdays.mp3",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "933e3a903b3ea327b4acfbeb46445b92",
+          "Path": "/media/Music/Binaerpilot/Promo/01_binaerpilot_-_thunderdays.mp3",
+          "Type": "Default",
+          "Container": "mp3",
+          "Size": 3405951,
+          "Name": "01_binaerpilot_-_thunderdays",
+          "IsRemote": false,
+          "RunTimeTicks": 1416881630,
+          "MediaStreams": [
+            {
+              "Codec": "mp3",
+              "BitRate": 192000,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false
+            }
+          ],
+          "Bitrate": 192000,
+          "DefaultAudioStreamIndex": 0
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 1416881630,
+      "IndexNumber": 1,
+      "ParentIndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Binaerpilot"
+      ],
+      "Album": "Promo",
+      "AlbumId": "920673748d7c8a4aa03144614f1f947f",
+      "AlbumPrimaryImageTag": "dcdaa02d4c5425aa20d7dbd3dc0df5fc",
+      "AlbumArtist": "Binaerpilot",
+      "ImageTags": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    },
+    {
+      "Name": "Cornered! (Promo Edit)",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "3f5cc1daea4e59e9204d939ba3e5345e",
+      "HasLyrics": false,
+      "Container": "mp3",
+      "Path": "/media/Music/Binaerpilot/Promo/04_binaerpilot_-_cornered_promo.mp3",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "3f5cc1daea4e59e9204d939ba3e5345e",
+          "Path": "/media/Music/Binaerpilot/Promo/04_binaerpilot_-_cornered_promo.mp3",
+          "Type": "Default",
+          "Container": "mp3",
+          "Size": 4125791,
+          "Name": "04_binaerpilot_-_cornered_promo",
+          "IsRemote": false,
+          "RunTimeTicks": 1716506120,
+          "MediaStreams": [
+            {
+              "Codec": "mp3",
+              "BitRate": 192000,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false
+            }
+          ],
+          "Bitrate": 192000,
+          "DefaultAudioStreamIndex": 0
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 1716506120,
+      "IndexNumber": 4,
+      "ParentIndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Binaerpilot"
+      ],
+      "Album": "Promo",
+      "AlbumId": "920673748d7c8a4aa03144614f1f947f",
+      "AlbumPrimaryImageTag": "dcdaa02d4c5425aa20d7dbd3dc0df5fc",
+      "AlbumArtist": "Binaerpilot",
+      "ImageTags": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    },
+    {
+      "Name": "Bend",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "a794b7c125d436df8dc2d870ad7b7e1e",
+      "HasLyrics": false,
+      "Container": "mp3",
+      "Path": "/media/Music/Binaerpilot/You Can't Stop Da Funk/01_binaerpilot_-_bend.mp3",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "a794b7c125d436df8dc2d870ad7b7e1e",
+          "Path": "/media/Music/Binaerpilot/You Can't Stop Da Funk/01_binaerpilot_-_bend.mp3",
+          "Type": "Default",
+          "Container": "mp3",
+          "Size": 6429605,
+          "Name": "01_binaerpilot_-_bend",
+          "IsRemote": false,
+          "RunTimeTicks": 2675461220,
+          "MediaStreams": [
+            {
+              "Codec": "mp3",
+              "BitRate": 192000,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false
+            }
+          ],
+          "Bitrate": 192000,
+          "DefaultAudioStreamIndex": 0
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 2675461220,
+      "IndexNumber": 1,
+      "ParentIndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Binaerpilot"
+      ],
+      "Album": "You Can't Stop Da Funk",
+      "AlbumId": "f21ea9ece4e6e26ec26ebfb81b82ad78",
+      "AlbumPrimaryImageTag": "95b159065964e1210d8c39d255920ebc",
+      "AlbumArtist": "Binaerpilot",
+      "ImageTags": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    }
+  ],
+  "TotalRecordCount": 5,
+  "StartIndex": 0
+}

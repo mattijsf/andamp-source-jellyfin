@@ -26,7 +26,8 @@ import nl.mattix.andamp.pack.jellyfin.OkHttpJellyfin
  * this phone, the library of that server, and the backend that plays its rows;
  * the binder and the service lifetime are [PackServiceBase].
  *
- * Questions go to [JellyfinLibrary] directly; the server does the paging.
+ * Questions go to [JellyfinLibrary] directly. The server does the paging,
+ * except for the folders, which the library pages itself.
  *
  * A token can be revoked on the server, which shows as a 401 on the next
  * question. The service then forgets the token and tells every bound player;
@@ -104,7 +105,8 @@ class PackService : PackServiceBase() {
 
     /**
      * The library, kept while the address and the token stay the same and
-     * built again when either changes. It holds no cache.
+     * built again when either changes. Building it again also drops the walk
+     * of the folders it keeps.
      */
     @Synchronized
     private fun library(): JellyfinLibrary? {

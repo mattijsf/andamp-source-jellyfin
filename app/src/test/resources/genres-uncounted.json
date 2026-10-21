@@ -1,0 +1,30 @@
+{
+  "Items": [
+    {
+      "Name": "Chiptune",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "5b0e6c1f8a7d4e2b9c3f1a6d8e2b4c7a",
+      "ChannelId": null,
+      "Type": "MusicGenre",
+      "ImageTags": {},
+      "BackdropImageTags": [],
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    },
+    {
+      "Name": "Electronic",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "e41f9a2c7b6d4f80a3e5c1b9d7f2a6e4",
+      "ChannelId": null,
+      "Type": "MusicGenre",
+      "ImageTags": {},
+      "BackdropImageTags": [],
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    }
+  ],
+  "TotalRecordCount": 2,
+  "StartIndex": 0
+}
