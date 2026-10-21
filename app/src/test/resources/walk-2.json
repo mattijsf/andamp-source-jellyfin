@@ -1,0 +1,103 @@
+{
+  "Items": [
+    {
+      "Name": "Thraximundar (He Who Paints The Earth Red)",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "84f8c616561f3d3d5c82ae6796be204b",
+      "HasLyrics": false,
+      "Container": "flac",
+      "Path": "/media/Music/Joshua Boniface/Into Aether/Thraximundar.flac",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "84f8c616561f3d3d5c82ae6796be204b",
+          "Path": "/media/Music/Joshua Boniface/Into Aether/Thraximundar.flac",
+          "Type": "Default",
+          "Container": "flac",
+          "Size": 38098202,
+          "Name": "Thraximundar",
+          "IsRemote": false,
+          "RunTimeTicks": 3254508839,
+          "MediaStreams": [
+            {
+              "Codec": "flac",
+              "BitRate": 936502,
+              "Channels": 2,
+              "SampleRate": 44100,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false
+            }
+          ],
+          "Bitrate": 936502,
+          "DefaultAudioStreamIndex": 0
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 3254508839,
+      "IndexNumber": 1,
+      "ParentIndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Joshua Boniface"
+      ],
+      "Album": "Thraximundar",
+      "AlbumId": "9f4119bdf8257b3f75141745432d0171",
+      "AlbumArtist": "Joshua Boniface",
+      "ImageTags": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    },
+    {
+      "Name": "Jellyfin",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "90b750a2cec4eb338c0dab3b40b8bb13",
+      "HasLyrics": false,
+      "Container": "flac",
+      "MediaSources": [
+        {
+          "Protocol": "File",
+          "Id": "90b750a2cec4eb338c0dab3b40b8bb13",
+          "Type": "Default",
+          "Container": "flac",
+          "Size": 17494001,
+          "Name": "Jellyfin",
+          "IsRemote": false,
+          "RunTimeTicks": 1830508539,
+          "MediaStreams": [
+            {
+              "Codec": "flac",
+              "BitRate": 764552,
+              "Channels": 2,
+              "SampleRate": 48000,
+              "Type": "Audio",
+              "Index": 0,
+              "IsExternal": false
+            }
+          ],
+          "Bitrate": 764552,
+          "DefaultAudioStreamIndex": 0
+        }
+      ],
+      "ChannelId": null,
+      "RunTimeTicks": 1830508539,
+      "IndexNumber": 10,
+      "ParentIndexNumber": 1,
+      "IsFolder": false,
+      "Type": "Audio",
+      "Artists": [
+        "Leap Fidei"
+      ],
+      "Album": "Nemesis",
+      "AlbumId": "f7e6d83954e06a0d46724a6068fa21ff",
+      "AlbumPrimaryImageTag": "45ff5f4520bf2b3e9e7410e4c8766cb1",
+      "AlbumArtist": "Leap Fidei",
+      "ImageTags": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Audio"
+    }
+  ],
+  "TotalRecordCount": 5,
+  "StartIndex": 3
+}

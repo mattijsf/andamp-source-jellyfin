@@ -1,0 +1,51 @@
+{
+  "Items": [
+    {
+      "Name": "Chiptune",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "5b0e6c1f8a7d4e2b9c3f1a6d8e2b4c7a",
+      "ChannelId": null,
+      "Type": "MusicGenre",
+      "ChildCount": 1,
+      "SongCount": 2,
+      "AlbumCount": 1,
+      "ImageTags": {},
+      "BackdropImageTags": [],
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    },
+    {
+      "Name": "Electronic",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "e41f9a2c7b6d4f80a3e5c1b9d7f2a6e4",
+      "ChannelId": null,
+      "Type": "MusicGenre",
+      "ChildCount": 2,
+      "SongCount": 3,
+      "AlbumCount": 2,
+      "ImageTags": {},
+      "BackdropImageTags": [],
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    },
+    {
+      "Name": "Industrial",
+      "ServerId": "f0b3381645f04afb9a0e392e74b6a1b0",
+      "Id": "0c7d2e9b4a1f4c6e8b5d3a7f9e1c2b8d",
+      "ChannelId": null,
+      "Type": "MusicGenre",
+      "ChildCount": 1,
+      "SongCount": 1,
+      "AlbumCount": 1,
+      "ImageTags": {},
+      "BackdropImageTags": [],
+      "ImageBlurHashes": {},
+      "LocationType": "FileSystem",
+      "MediaType": "Unknown"
+    }
+  ],
+  "TotalRecordCount": 4,
+  "StartIndex": 0
+}

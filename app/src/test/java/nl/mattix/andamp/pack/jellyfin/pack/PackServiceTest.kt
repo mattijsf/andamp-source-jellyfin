@@ -4,6 +4,7 @@ package nl.mattix.andamp.pack.jellyfin.pack
 
 import android.Manifest
 import android.app.Application
+import android.content.ComponentName
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.net.ConnectivityManager
@@ -104,6 +105,15 @@ class PackServiceTest {
         assertEquals(StreamPlayback.RENDERING.canEditQueue, said.canEditQueue)
         assertEquals(StreamPlayback.RENDERING.canAttenuate, said.canAttenuate)
         assertEquals(JellyfinLibrary.SHELVES, said.browse)
+    }
+
+    @Test
+    fun `the manifest tells the player that the source answers folders and genres`() {
+        val bound = ComponentName(app, PackService::class.java)
+        val meta = checkNotNull(app.packageManager.getServiceInfo(bound, PackageManager.GET_META_DATA).metaData)
+
+        assertTrue("FOLDERS is true", meta.getBoolean(PackApi.META_FOLDERS))
+        assertTrue("GENRES is true", meta.getBoolean(PackApi.META_GENRES))
     }
 
     @Test
